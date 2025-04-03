@@ -1,0 +1,2 @@
+# Locating Bacterial Flagellar Motors from 3D tomographs using YOLO model
+ The goal is to develop a YOLO model to identify the presence and location of flagellar motors in 3D reconstructions of bacteria. Automating this traditionally manual task will accelerate the study of macromolecular complexes, helping to: Answer fundamental questions in molecular biology Improve drug development Advance synthetic biology
